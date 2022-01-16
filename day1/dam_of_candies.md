@@ -3,6 +3,7 @@ title: "Two Pointer Technique"
 description: "Dam of Candies"
 categories:
   - Coding
+  - Arrays
 ---
 
 ### Question
