@@ -6,7 +6,8 @@
 |Day|Title|Description|Language|Source|Link|
 |--|--|--|--|--|--|
 |1| Two Pointers Algorithm | Find the Maximum area - Dam of Candies |  C++| <a href="https://practice.geeksforgeeks.org/problems/10471201e923a0b88a0c1482e6c7e8cc6fdfe93a/1">GeeksForGeeks</a>|<a href="https://github.com/Shyam-Deepak-23/100-days-of-code/blob/main/day1/dam_of_candies.md">View Code</a>|
-|2||||||
+|1.2|Dutch National Flag Algorithm|Sort 0s 1s and 2s without any sorting algo| C++|<a href="https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1#">GeeksForGeeks</a> | <a href = "https://github.com/Shyam-Deepak-23/100-days-of-code/blob/main/day1/DutchNationalFlag.md">View Code</a>|
+|2|
 |3||||||
 |4||||||
 |5||||||
