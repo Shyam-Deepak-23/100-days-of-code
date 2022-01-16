@@ -3,6 +3,7 @@ title : "sort 0s 1s and 2s without sorting algo"
 description : "Dutch National Flag Algorithm"
 Categories :
     - Coding
+    - Arrays
 ---
 
 ### Question
